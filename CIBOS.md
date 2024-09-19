@@ -21,10 +21,15 @@ deploying applications, and SaaS delivers fully functional software applications
 ## **Browser Evolution:**
 Modern browsers have become sophisticated platforms in their own right. They now support:
 ● Complex JavaScript engines for high-performance code execution
+
 ● WebAssembly for near-native performance
+
 ● APIs for accessing device hardware (e.g., camera, GPS, accelerometer)
+
 ● Local storage and IndexedDB for offline capabilities
+
 ● WebGL for 3D graphics
+
 ● Web Workers for multi-threading
 
 ## **Progressive Web Apps (PWAs):**
@@ -34,9 +39,13 @@ enabling web apps to function like native apps, offering offline capabilities, i
 system-like performance directly through the browser.
 What are their capabilities right now?
 ● Browser-based computing
+
 ● Offline functionality
+
 ● Push notifications
+
 ● Home screen installation
+
 ● App-like interfaces and interactions
 
 ## **Web-based Development Environments:**
