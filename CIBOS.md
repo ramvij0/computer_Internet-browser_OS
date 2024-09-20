@@ -10,6 +10,9 @@ like Chrome OS pushing the boundaries of what could be done entirely within a br
 GNU created by Richard Stallman which revolutionized how we interact with operating systems can be
 considered in this idea as bringing GNU to the 21st century through browsers.
 
+## Ecosystems and Apple
+The development of Apple's Safari is part of this vision. Safari was created as a browser that could use multiple search engines, but Apple had control of it themselves. Instead of placing everything in the browser, Apple made users download apps, because they would run more natively with the hardware and operating system. Thus, apps could run far better using the hardware and operating system set forth by Apple instead of using Safari, which would have to conform to web technologies and not built in hardware on the phone, which would not run as natively. Apple may have also created apps and used the App Store to gain revenue with a more controlled ecosystem. Ecosystems are often created by large companies and can trap customers in "siloes". Instead of using the browser, Apple, Google, and other companies created their own ecosystems that get customers stuck in their ecosystem, because these people have limited knowledge of other ecosystems. Not all ecosystems offer the same features, so a user cannot get all the features they want from one ecosystem, so they might have to stick with one for certain features, but not all. The history of apps and browsers also stems from ecosystems, as companies like Apple saw the opportunity to create an ecosystem that represents the Apple device instead of using web-based and cross-platform solutions. Creating such ecosystems allows for customer lock-in and quality control of their own brand.
+
 ## **Cloud Computing's Role:**
 Cloud services have been instrumental in realizing this vision. Infrastructure-as-a-Service (IaaS),
 Platform-as-a-Service (PaaS), and Software-as-a-Service (SaaS) models have made it possible to offload
