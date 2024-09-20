@@ -23,6 +23,7 @@ deploying applications, and SaaS delivers fully functional software applications
 
 ## **Browser Evolution:**
 Modern browsers have become sophisticated platforms in their own right. They now support:
+
 ● Complex JavaScript engines for high-performance code execution
 
 ● WebAssembly for near-native performance
