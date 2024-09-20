@@ -18,8 +18,10 @@ Cloud services have been instrumental in realizing this vision. Infrastructure-a
 Platform-as-a-Service (PaaS), and Software-as-a-Service (SaaS) models have made it possible to offload
 computation, storage, and entire applications to the cloud. This shift has transformed the internet from a
 mere communication network into a global computational resource.
-IaaS provides virtualized computing resources over the internet, PaaS offers a platform for building and
-deploying applications, and SaaS delivers fully functional software applications via the cloud.
+However, this model creates a tension between centralized platforms and the decentralized nature of browser-based solutions. While cloud services provide convenience and power, they often lead to reliance on a few dominant providers (like AWS, Google Cloud, and Microsoft Azure), which can result in vendor lock-in and reduced user control over data and services.
+In contrast, using a browser-centric approach promotes decentralization, allowing users to access a wide variety of web applications without being tied to specific platforms. This flexibility can encourage innovation and diversity in software offerings. Yet, the trade-off is that web applications might not always leverage the same level of performance and integration that native apps or cloud-hosted applications can provide.
+
+Definitions: IaaS provides virtualized computing resources over the internet, PaaS offers a platform for building and deploying applications, and SaaS delivers fully functional software applications via the cloud.
 
 ## **Browser Evolution:**
 Modern browsers have become sophisticated platforms in their own right. They now support:
