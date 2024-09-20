@@ -26,17 +26,17 @@ Definitions: IaaS provides virtualized computing resources over the internet, Pa
 ## **Browser Evolution:**
 Modern browsers have become sophisticated platforms in their own right. They now support:
 
-● Complex JavaScript engines for high-performance code execution
+● [Complex JavaScript engines for high-performance code execution](https://en.wikipedia.org/wiki/JavaScript_engine)
 
-● WebAssembly for near-native performance
+● [WebAssembly for near-native performance](https://en.wikipedia.org/wiki/WebAssembly)
 
-● APIs for accessing device hardware (e.g., camera, GPS, accelerometer)
+● [APIs for accessing device hardware (e.g., camera, GPS, accelerometer)](https://en.wikipedia.org/wiki/Web_API)
 
-● Local storage and IndexedDB for offline capabilities
+● [Local storage and IndexedDB for offline capabilities](https://en.wikipedia.org/wiki/API)
 
-● WebGL for 3D graphics
+● [WebGL for 3D graphics](https://en.wikipedia.org/wiki/WebGL)
 
-● Web Workers for multi-threading
+● [Web Workers for multi-threading](https://en.wikipedia.org/wiki/Web_worker)
 
 ## **Progressive Web Apps (PWAs):**
 How are PWAs related to “making the browser an OS”?
@@ -44,15 +44,16 @@ How are PWAs related to “making the browser an OS”?
 enabling web apps to function like native apps, offering offline capabilities, installation, and
 system-like performance directly through the browser.
 What are their capabilities right now?
-● [Browser-based computing] (https://catalyit.com/cloud-software-browser-vs-desktop-applications/)
 
-● Offline functionality
+● [Browser-based computing](https://catalyit.com/cloud-software-browser-vs-desktop-applications/)
 
-● Push notifications
+● [Offline functionality](https://en.wikipedia.org/wiki/Online_and_offline)
 
-● Home screen installation
+● [Push notifications](https://vwo.com/push-notifications/)
 
-● App-like interfaces and interactions
+● [Home screen installation](https://en.wikipedia.org/wiki/Progressive_web_app)
+
+● [App-like interfaces and interactions](https://en.wikipedia.org/wiki/Progressive_web_app)
 
 ## **Web-based Development Environments:**
 The rise of browser-based IDEs like GitHub Codespaces, Replit, and CodeSandbox demonstrates how
