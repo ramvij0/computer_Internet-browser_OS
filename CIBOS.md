@@ -44,7 +44,7 @@ How are PWAs related to “making the browser an OS”?
 enabling web apps to function like native apps, offering offline capabilities, installation, and
 system-like performance directly through the browser.
 What are their capabilities right now?
-● Browser-based computing
+● [Browser-based computing] (https://catalyit.com/cloud-software-browser-vs-desktop-applications/)
 
 ● Offline functionality
 
